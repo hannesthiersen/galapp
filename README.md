@@ -8,7 +8,16 @@ It uses the principle of an active investigation (similar to active branches in 
 * switch between investigations (from template?)
 * display active project and investigation
 * list all projects and investigations (using tree tool)
+* transfer data to external location
+
+# Ideas
+* somehow use config files to link to git repos
 * archive data
 * extract archived data
 * filter relevant data
-* transfer data to external location
+
+# Relevant directories
+~/.cache/galapp
+~/.config/galapp
+~/.local/share/galapp
+
